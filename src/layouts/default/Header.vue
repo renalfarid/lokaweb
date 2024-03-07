@@ -147,7 +147,7 @@
           </nav>
         </header>
         <div class="mt-10 px-28">
-          <a href="javascript:void(0)" class='inline-flex gap-x-6 items-center rounded-full p-1 pr-6 border text-sm font-medium duration-150 hover:bg-white'>
+          <a href="/enrollment" class='inline-flex gap-x-6 items-center rounded-full p-1 pr-6 border text-sm font-medium duration-150 hover:bg-white'>
           <span class='inline-block rounded-full px-3 py-1 bg-indigo-600 text-white'>
               News
           </span>

@@ -4,8 +4,6 @@
 </script>
   
 <template>
-    <v-app>
-      <header-bar />
-      <default-view />
-    </v-app>
+  <header-bar />
+  <default-view />
 </template>
